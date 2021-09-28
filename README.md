@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there! 👋
+
+### I love coding and I’m constantly trying to improve the reach of my tech skills in general and my knowledge of Go in particular. Why Go? I think it's because I believe brevity, clarity and efficiency in coding structure of any project is very important and Go is designed with such qualities in mind. 
+
+### Please, feel free to look through my repos below.
+
+### Currently working on a data warehouse project in a large Bank. 🔭
+### Also currently learning C++. 🌱
 
 <!--
 **gregsavvy/gregsavvy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
