@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-### I love coding and I’m constantly trying to improve the reach of my tech skills in general and my knowledge of Go in particular. Why Go? I think it's because I believe brevity, clarity and efficiency in coding structure of any project is important and Go is designed with such qualities in mind. 
+### I love coding and project management. I’m constantly trying to improve the reach of my tech skills in general and my knowledge of Go in particular. Why Go? I think it's because I believe brevity, clarity and efficiency in coding structure of any project is important and Go is designed with such qualities in mind. 
 
 ### Please, feel free to look through my repos below.
 
