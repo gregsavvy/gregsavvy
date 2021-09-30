@@ -5,7 +5,7 @@
 ### Please, feel free to look through my repos below.
 
 ### - Currently working on a data warehouse project in a large banking organization. 🔭
-### - Also currently learning C++ and PostgreSQL. 🌱
+### - Also currently learning C++. 🌱
 
 <!--
 **gregsavvy/gregsavvy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
