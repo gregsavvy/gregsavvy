@@ -1,4 +1,4 @@
-### Hi there! 👋
+### Hello there! 👋
 
 ### I love coding and managing projects. I’m constantly trying to improve the reach of my tech skills in general and my knowledge of Go in particular. Why Go? I adore brevity, clarity and efficiency of syntax and coding structure that Go allows to easily pursue and get the product/project done.
 
