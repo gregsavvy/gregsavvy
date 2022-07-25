@@ -1,10 +1,10 @@
 ### Hello there! 👋
 
-### I love coding and managing projects. I’m constantly trying to improve the reach of my tech skills in general and my knowledge of Go in particular. Why Go? I adore brevity, clarity and efficiency of syntax and coding structure that Go allows to easily pursue and get the product/project done.
+### I love coding and managing projects. I’m constantly trying to improve the reach of my tech skills in general and my knowledge of Go in particular. Why Go? I adore brevity, clarity and efficiency of syntax and coding structure that Go allows to pursue and get the product/project done.
 
 ### Please, feel free to look through my repos below.
 
-### - Currently working on a data warehouse project in a large banking organization. 🔭
+### - Currently working at Samsung SDS on internal web applications for business departments. 🔭
 ### - Also currently learning C++. 🌱
 
 <!--
